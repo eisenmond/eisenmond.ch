@@ -2383,6 +2383,6 @@ margin-left: 25%;
 
 .hw {
     position:absolute;
-    z-index:1;
+    z-index:-1;
 }
 
